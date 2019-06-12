@@ -1,5 +1,6 @@
 # RoadofGame
 record my road of learning game development
+6.12
 6.11
 6.10 
 6.2 6.3 6.4 6.5 6.6  6.7 6.8 6.9 
