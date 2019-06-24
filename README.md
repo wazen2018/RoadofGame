@@ -1,5 +1,6 @@
 # RoadofGame
 record my road of learning game development
+6.24 移动同步凌晨做完
 6.23
 6.22 移动同步2
 6.21
