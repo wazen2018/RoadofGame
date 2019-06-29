@@ -1,5 +1,6 @@
 # RoadofGame
 record my road of learning game development
+6.29
 6.28
 6.27 地图传送 基本完成
 6.26
