@@ -1,5 +1,6 @@
 # RoadofGame
 record my road of learning game development
+7.6
 7.4
 7.03 休班周三 
 7.2 
