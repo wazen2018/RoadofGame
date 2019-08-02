@@ -1,5 +1,6 @@
 # RoadofGame
 record my road of learning game developmen4
+8.2
 7.31
 7-29
 7.26-7.27 JiNan
