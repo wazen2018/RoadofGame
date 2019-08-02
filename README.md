@@ -1,5 +1,6 @@
 # RoadofGame
-record my road of learning game developmen4
+record my road of learning game developmen
+8.3
 8.2
 7.31
 7-29
